@@ -1,4 +1,4 @@
-<img src="https://github.com/jimmylee88/jimmylee88/blob/main/waving-hand_1f44b.gif" alt="waving hand emoji" width="32px" /> # 你好! I'm Jimmy Lee! 
+# <img src="https://github.com/jimmylee88/jimmylee88/blob/main/waving-hand_1f44b.gif" alt="waving hand emoji" width="32px" /> 你好! I'm Jimmy Lee! 
 ### Designer, and Developer (in training)
 
 ### About Me:
