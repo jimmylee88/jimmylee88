@@ -1,7 +1,7 @@
 # 你好! I'm Jimmy Lee
-## Designer, and Developer (in training)
+### Designer, and Developer (in training)
 
-### About Me
+### About Me:
 
 - 📍 Manchester, UK
 - 💼 My UX/UI [Design Portfolio](https://jimlee.co)
