@@ -17,7 +17,7 @@
 | Multi-page website | HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design | [Repo](https://github.com/jimmylee88/responsive-multipage) | [Demo](https://jimmylee88.github.io/responsive-multipage/) |
 | Bootstrap website | HTML, CSS, CSS Variables, Flexbox,  Bootstrap framework and components | [Repo](https://github.com/jimmylee88/bootstrap-project) | [Demo](https://jimmylee88.github.io/bootstrap-project/) |
 | To-do-list | Javascript, HTML, CSS | [Repo](https://github.com/jimmylee88/javascript-intro) | [Demo](https://jimmylee88.github.io/javascript-intro/to-do-list-v2/index.html) |
-| Weather Dashboard (group project) | HTML, CSS, Javascript, API calls, GitHub collaboration and management | [Repo](https://github.com/jimmylee88/weather-api-group) | [Demo](https://jimmylee88.github.io/weather-api-group/) |
+| Weather Dashboard<br>(group project) | HTML, CSS, Javascript, API calls, GitHub collaboration and management | [Repo](https://github.com/jimmylee88/weather-api-group) | [Demo](https://jimmylee88.github.io/weather-api-group/) |
 ---
 
 
