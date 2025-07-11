@@ -13,11 +13,11 @@
 
 | Project | Tech Stack / Learning| Repo | Demo |
 | :---| :--- | :--: | :--: |
-| Portfolio | Basic HTML, CSS, semantic tags, accessibility | [link](https://github.com/jimmylee88/portfolio) | [link](https://jimmylee88.github.io/portfolio/) |
-| Multi-page website | HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design | [link](https://github.com/jimmylee88/responsive-multipage) | [link](https://jimmylee88.github.io/responsive-multipage/) |
-| Bootstrap website | HTML, CSS, CSS Variables, Flexbox,  Bootstrap framework and components | [link](https://github.com/jimmylee88/bootstrap-project) | [link](https://jimmylee88.github.io/bootstrap-project/) |
-| To-do-list | Javascript, HTML, CSS | [link](https://github.com/jimmylee88/javascript-intro) | [link](https://jimmylee88.github.io/javascript-intro/to-do-list-v2/index.html) |
-| Weather Dashboard | HTML, CSS, Javascript, API calls, GitHub collaboration and management | [link](https://github.com/jimmylee88/weather-api-group) | [link](https://jimmylee88.github.io/weather-api-group/) |
+| Portfolio | Basic HTML, CSS, semantic tags, accessibility | [Repo](https://github.com/jimmylee88/portfolio) | [Demo](https://jimmylee88.github.io/portfolio/) |
+| Multi-page website | HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design | [Repo](https://github.com/jimmylee88/responsive-multipage) | [Demo](https://jimmylee88.github.io/responsive-multipage/) |
+| Bootstrap website | HTML, CSS, CSS Variables, Flexbox,  Bootstrap framework and components | [Repo](https://github.com/jimmylee88/bootstrap-project) | [Demo](https://jimmylee88.github.io/bootstrap-project/) |
+| To-do-list | Javascript, HTML, CSS | [Repo](https://github.com/jimmylee88/javascript-intro) | [Demo](https://jimmylee88.github.io/javascript-intro/to-do-list-v2/index.html) |
+| Weather Dashboard | HTML, CSS, Javascript, API calls, GitHub collaboration and management | [Repo](https://github.com/jimmylee88/weather-api-group) | [Demo](https://jimmylee88.github.io/weather-api-group/) |
 ---
 
 
