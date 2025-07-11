@@ -1,8 +1,5 @@
-# 你好!
-
-## I'm Jimmy Lee
+# 你好! I'm Jimmy Lee
 ## Designer, and Developer (in training)
----
 
 ### About Me
 
@@ -10,7 +7,7 @@
   - HTML
   - CSS
   - Javascript
----
+
 - 📍 Manchester, UK
 - 🌳 My UX/UI [Design Portfolio](https://jimlee.co)
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrjimelee/)
