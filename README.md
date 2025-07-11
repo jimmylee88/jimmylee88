@@ -3,11 +3,11 @@
 
 ### About Me
 
+- 📍 Manchester, UK
+- 💼 My UX/UI [Design Portfolio](https://jimlee.co)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrjimelee/)
 - 🌱 Currently learning Web Development with [Step8Up](https://github.com/Step8Up-SBC)
   - HTML, CSS, and Javascript
-- 📍 Manchester, UK
-- 🌳 My UX/UI [Design Portfolio](https://jimlee.co)
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrjimelee/)
 
 
 
