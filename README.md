@@ -11,7 +11,7 @@ Particularly interested in learning more about web accessibility, and front-end 
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrjimelee/)
 
 ### 🌱 [Step8Up](https://github.com/Step8Up-SBC) Bootcamp Work:
-<table>
+<table style="width:70%">
   <tr>
     <th scope="col">Project</th>
     <th scope="col">Tech Stack / Learning</th>
