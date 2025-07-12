@@ -1,6 +1,7 @@
 # <img src="https://github.com/jimmylee88/jimmylee88/blob/main/waving-hand_1f44b.gif" alt="waving hand emoji" width="32px" /> 你好! I'm Jimmy Lee
 ### Designer & Developer (in training)
-After a decade working as a designer, I'm keen to explore the possibilities that technical skills can bring to it.
+I spent a decade working as a designer at the BBC, with a human centered and public service focus.<br>
+Now keen to explore how my modest and slowly growing technical skills can work with it.<br>
 Particularly interested in learning more about web accessibility, and front-end / UI engineering.
 
 ### About Me:
