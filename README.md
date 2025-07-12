@@ -12,7 +12,7 @@ Particularly interested in learning more about web accessibility, and front-end 
 
 ### 🌱 [Step8Up](https://github.com/Step8Up-SBC) Bootcamp Work:
 
-| Project | Tech Stack / Learning| Links |
+| Project | Tech Stack / Learning| Repo | Demo |
 | :---| :--- | :--: | :--: |
 | Portfolio | Basic HTML, CSS, semantic tags, accessibility | [Repo](https://github.com/jimmylee88/portfolio) | [Demo](https://jimmylee88.github.io/portfolio/) |
 | Multi-page website | HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design | [Repo](https://github.com/jimmylee88/responsive-multipage) | [Demo](https://jimmylee88.github.io/responsive-multipage/) |
