@@ -11,15 +11,43 @@ Particularly interested in learning more about web accessibility, and front-end 
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrjimelee/)
 
 ### 🌱 [Step8Up](https://github.com/Step8Up-SBC) Bootcamp Work:
-
-| Project | Tech Stack / Learning| Links |  |
-| :---| :--- | :--: | :--: |
-| Portfolio | Basic HTML, CSS, semantic tags, accessibility | [Repo](https://github.com/jimmylee88/portfolio) | [Demo](https://jimmylee88.github.io/portfolio/) |
-| Multi-page website | HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design | [Repo](https://github.com/jimmylee88/responsive-multipage) | [Demo](https://jimmylee88.github.io/responsive-multipage/) |
-| Bootstrap website | HTML, CSS, CSS Variables, Flexbox,  Bootstrap framework and components | [Repo](https://github.com/jimmylee88/bootstrap-project) | [Demo](https://jimmylee88.github.io/bootstrap-project/) |
-| To-do-list | Javascript, HTML, CSS | [Repo](https://github.com/jimmylee88/javascript-intro) | [Demo](https://jimmylee88.github.io/javascript-intro/to-do-list-v2/index.html) |
-| Weather Dashboard<br>(group project) | HTML, CSS, Javascript, API calls, GitHub collaboration and management | [Repo](https://github.com/jimmylee88/weather-api-group) | [Demo](https://jimmylee88.github.io/weather-api-group/) |
----
+<table>
+  <tr>
+    <th scope="col">Project</th>
+    <th scope="col">Tech Stack / Learning</th>
+    <th scope="col" colspan="2">Links</th>
+  </tr>
+  <tr>
+    <td>Portfolio</td>
+    <td>Basic HTML, CSS, semantic tags, accessibility</td>
+    <td><a href="https://github.com/jimmylee88/portfolio">Repo</a></td>
+    <td><a href="https://jimmylee88.github.io/portfolio/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>Multi-page website</td>
+    <td>HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design</td>
+    <td><a href="https://github.com/jimmylee88/responsive-multipage">Repo</a></td>
+    <td><a href="https://jimmylee88.github.io/responsive-multipage/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>Bootstrap website</td>
+    <td>HTML, CSS, CSS Variables, Flexbox,  Bootstrap framework and components</td>
+    <td><a href="https://github.com/jimmylee88/bootstrap-project">Repo</a></td>
+    <td><a href="https://jimmylee88.github.io/bootstrap-project/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>To-do-list</td>
+    <td>Javascript, HTML, CSS</td>
+    <td><a href="https://github.com/jimmylee88/javascript-intro">Repo</a></td>
+    <td><a href="https://jimmylee88.github.io/javascript-intro/to-do-list-v2/index.html">Demo</a></td>
+  </tr>
+  <tr>
+    <td>Weather Dashboard</td>
+    <td>HTML, CSS, Javascript, API calls, GitHub collaboration and management</td>
+    <td><a href="https://github.com/jimmylee88/weather-api-group">Repo</a></td>
+    <td><a href="https://jimmylee88.github.io/weather-api-group/">Demo</a></td>
+  </tr>
+</table>
 
 
 
