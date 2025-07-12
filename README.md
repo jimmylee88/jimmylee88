@@ -1,15 +1,15 @@
-# <img src="https://github.com/jimmylee88/jimmylee88/blob/main/waving-hand_1f44b.gif" alt="waving hand emoji" width="32px" /> 你好! I'm Jimmy Lee! 
-### Designer, and Developer (in training)
+# <img src="https://github.com/jimmylee88/jimmylee88/blob/main/waving-hand_1f44b.gif" alt="waving hand emoji" width="32px" /> 你好! I'm Jimmy Lee
+### Designer & Developer (in training)
+After a decade working as a designer, I'm keen to explore the possibilities that technical skills can bring to it.
+Particularly interested in learning more about web accessibility, and front-end / UI engineering.
 
 ### About Me:
 
 - 📍 Manchester, UK
 - 💼 My UX/UI [Design Portfolio](https://jimlee.co)
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrjimelee/)
-- 🌱 Currently learning Web Development with [Step8Up](https://github.com/Step8Up-SBC)
-  - HTML, CSS, and Javascript
 
-### Bootcamp Work:
+### 🌱 [Step8Up](https://github.com/Step8Up-SBC) Bootcamp Work:
 
 | Project | Tech Stack / Learning| Repo | Demo |
 | :---| :--- | :--: | :--: |
