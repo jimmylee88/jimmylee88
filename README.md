@@ -19,7 +19,7 @@ Particularly interested in learning more about web accessibility, and front-end 
   </tr>
   <tr>
     <td>Portfolio</td>
-    <td>Basic HTML, CSS, semantic tags, accessibility</td>
+    <td>`Basic HTML`, `CSS`, `semantic tags`, `accessibility`</td>
     <td><a href="https://github.com/jimmylee88/portfolio">Repo</a></td>
     <td><a href="https://jimmylee88.github.io/portfolio/">Demo</a></td>
   </tr>
