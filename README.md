@@ -30,7 +30,7 @@ Particularly interested in learning more about web accessibility, and front-end 
     <td><a href="https://jimmylee88.github.io/responsive-multipage-2/">Demo</a></td>
   </tr>
     <tr>
-    <td>Bootstrap website v2</td>
+    <td>Bootstrap website</td>
     <td>HTML, CSS Variables, Flexbox, Bootstrap framework and components</td>
     <td><a href="https://github.com/jimmylee88/bootstrap-site">Repo</a></td>
     <td><a href="https://jimmylee88.github.io/bootstrap-site/">Demo</a></td>
