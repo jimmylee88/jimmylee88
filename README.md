@@ -18,54 +18,20 @@ Particularly interested in learning more about web accessibility, and front-end 
     <th scope="col" colspan="2">Links</th>
   </tr>
   <tr>
-    <td>Portfolio</td>
-    <td>Basic HTML, CSS, semantic tags, accessibility</td>
-    <td><a href="https://github.com/jimmylee88/portfolio">Repo</a></td>
-    <td><a href="https://jimmylee88.github.io/portfolio/">Demo</a></td>
-  </tr>
-  
-  <tr>
-    <td>Multi-page website</td>
-    <td>HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design</td>
-    <td><a href="https://github.com/jimmylee88/responsive-multipage">Repo</a></td>
-    <td><a href="https://jimmylee88.github.io/responsive-multipage/">Demo</a></td>
-  </tr>
-  
-  <tr>
-    <td>Bootstrap website</td>
-    <td>HTML, CSS, CSS Variables, Flexbox, Bootstrap framework and components</td>
-    <td><a href="https://github.com/jimmylee88/bootstrap-project">Repo</a></td>
-    <td><a href="https://jimmylee88.github.io/bootstrap-project/">Demo</a></td>
-  </tr>
-
-  <tr>
-    <td>To-do-list</td>
-    <td>Javascript, HTML, CSS</td>
-    <td><a href="https://github.com/jimmylee88/javascript-intro">Repo</a></td>
-    <td><a href="https://jimmylee88.github.io/javascript-intro/to-do-list-v2/index.html">Demo</a></td>
-  </tr>
-  <tr>
-    <td>Weather Dashboard</td>
-    <td>HTML, CSS, Javascript, API calls, GitHub collaboration and management</td>
-    <td><a href="https://github.com/jimmylee88/weather-api-group">Repo</a></td>
-    <td><a href="https://jimmylee88.github.io/weather-api-group/">Demo</a></td>
-  </tr>
-
-  <tr>
-    <td>Portfolio v2 (Sept '25)</td>
+    <td>Portfolio page</td>
     <td>Basic HTML, CSS, semantic tags, accessibility</td>
     <td><a href="https://github.com/jimmylee88/html-css-portfolio">Repo</a></td>
     <td><a href="https://jimmylee88.github.io/html-css-portfolio/">Demo</a></td>
   </tr>
   <tr>
-    <td>Multi-page website v2</td>
+    <td>Multi-page website</td>
     <td>HTML, CSS (Flexbox), CSS Variables, Pseudo elements & classes, responsive web design</td>
     <td><a href="https://github.com/jimmylee88/responsive-multipage-2">Repo</a></td>
     <td><a href="https://jimmylee88.github.io/responsive-multipage-2/">Demo</a></td>
   </tr>
     <tr>
     <td>Bootstrap website v2</td>
-    <td>HTML, CSS, CSS Variables, Flexbox, Bootstrap framework and components</td>
+    <td>HTML, CSS Variables, Flexbox, Bootstrap framework and components</td>
     <td><a href="https://github.com/jimmylee88/bootstrap-site">Repo</a></td>
     <td><a href="https://jimmylee88.github.io/bootstrap-site/">Demo</a></td>
   </tr>
