@@ -47,7 +47,7 @@ Particularly interested in learning more about web accessibility, and front-end 
     <td>Python Readme Maker</td>
     <td>Python, importing libraries and working with CLI and Markdown</td>
     <td><a href="https://github.com/jimmylee88/python-readme-maker">Repo</a></td>
-    <td><a href="https://private-user-images.githubusercontent.com/9608971/507940021-978bbfea-a302-441d-9d00-1a2cb82bfc61.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0Njc3NjUsIm5iZiI6MTc2MjQ2NzQ2NSwicGF0aCI6Ii85NjA4OTcxLzUwNzk0MDAyMS05NzhiYmZlYS1hMzAyLTQ0MWQtOWQwMC0xYTJjYjgyYmZjNjEubXA0P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTEwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTExMDZUMjIxNzQ1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZGQxYjk3ZjZjNzA1MWE3NDRhMjk0MzBjOGY3ZjRmYzc3NjkxOTFjODI5NjIyZTM2MmE3ODhkMGYzMWU4MDI3YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.IZgLdWxSPGw2WsZYEjigCSnidCZyOQaQ2jjxpHpfkdM">Demo</a></td>
+    <td><a href="https://github.com/jimmylee88/python-readme-maker#video-walkthrough">Demo</a></td>
   </tr>
 </table>
 
