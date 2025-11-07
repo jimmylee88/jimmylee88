@@ -47,7 +47,7 @@ Particularly interested in learning more about web accessibility, and front-end 
     <td>Python Readme Maker</td>
     <td>Python, importing libraries and working with CLI and Markdown</td>
     <td><a href="https://github.com/jimmylee88/python-readme-maker">Repo</a></td>
-    <td><a href="https://github.com/jimmylee88/python-readme-maker#video-walkthrough">Demo</a></td>
+    <td><a href="https://github.com/jimmylee88/python-readme-maker?tab=readme-ov-file#video-walkthrough">Demo</a></td>
   </tr>
 </table>
 
